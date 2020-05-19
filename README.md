@@ -1,7 +1,7 @@
-Large Entities
-==============
+Large Entity Classes
+====================
 
-This project generates large entities and assembles them.
+This project generates large entity classes and assembles them.
 You can check how long it takes to assemble them.
 
 Build large generated classes
